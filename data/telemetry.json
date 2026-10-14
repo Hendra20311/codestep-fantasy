@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LOG-1791262408820",
+    "studentName": "Budi Santoso",
+    "attemptCount": 2,
+    "isEngineOn": true,
+    "actionType": "ULANGI",
+    "deviceInfo": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+    "timestamp": "11.53.28"
+  },
+  {
+    "id": "LOG-1791262399497",
+    "studentName": "Budi Santoso",
+    "attemptCount": 2,
+    "isEngineOn": true,
+    "actionType": "VALIDASI",
+    "deviceInfo": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+    "timestamp": "11.53.19"
+  },
+  {
+    "id": "LOG-1791262391993",
+    "studentName": "Budi Santoso",
+    "attemptCount": 2,
+    "isEngineOn": true,
+    "actionType": "VALIDASI",
+    "deviceInfo": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+    "timestamp": "11.53.11"
+  },
+  {
+    "id": "LOG-1791262390877",
+    "studentName": "Budi Santoso",
+    "attemptCount": 2,
+    "isEngineOn": true,
+    "actionType": "VALIDASI",
+    "deviceInfo": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+    "timestamp": "11.53.10"
+  },
+  {
+    "id": "LOG-1791262387871",
+    "studentName": "Budi Santoso",
+    "attemptCount": 1,
+    "isEngineOn": true,
+    "actionType": "ULANGI",
+    "deviceInfo": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+    "timestamp": "11.53.07"
+  }
+]
